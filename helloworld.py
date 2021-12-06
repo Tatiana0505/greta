@@ -7,3 +7,6 @@ print("\n"+str)
 
 str = "! Bonjour Monde !"
 print("\n"+str)
+
+str = "! Bonjour Paris !"
+print("\n"+str)
