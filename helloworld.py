@@ -4,3 +4,6 @@
 ## Helloworld.Python ##
 str = "! Helloworld !"
 print("\n"+str)
+
+str = "! Bonjour Monde !"
+print("\n"+str)
