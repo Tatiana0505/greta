@@ -8,5 +8,8 @@ print("\n"+str)
 str = "! Bonjour Monde !"
 print("\n"+str)
 
-str = "Comment test allez vous ?"
+str = "Comment test allez vous  ?"
+print("\n"+str)
+
+str = "pas très rond ?"
 print("\n"+str)
